@@ -6,7 +6,7 @@
     "caption": {
       "loremParagraphs": {
         "minLength": 10,
-        "maxLength": 100
+        "maxLength": 1000
       }
     },
     "liked": {
